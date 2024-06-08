@@ -8,6 +8,10 @@ Este projeto utiliza a biblioteca FastAPI para criar uma API de detecção de co
 
 [Corais Object Detection](https://universe.roboflow.com/bxspoworkspace/corais)
 
+## Link Pitch
+
+[Pitch Global Solution](https://youtu.be/ungfwR4FQ4M)
+
 ## Estrutura do Projeto
 
 - **index.py**: Contém o código principal da API.
@@ -26,7 +30,7 @@ Este projeto utiliza a biblioteca FastAPI para criar uma API de detecção de co
 1. Clone o repositório.
 
 ```sh
-git clone 
+git clone https://github.com/EzequielBispo/GS1IA
 ```
 
 2. Instale as dependências.
