@@ -12,6 +12,18 @@ Este projeto utiliza a biblioteca FastAPI para criar uma API de detecção de co
 
 [Pitch Global Solution](https://youtu.be/ungfwR4FQ4M)
 
+## Integrantes<br>
+
+- [Ana Clara Aguiar](https://github.com/anaclaraguimaraesremotto) - RM 97898 - Turma  2TDSPY
+
+- [Ezequiel Bispo de Jesus](https://github.com/EzequielBispo) - RM 99573 - Turma  2TDSPY
+
+- [Helena Cristina](https://github.com/19helena) - RM 551873 - Turma  2TDSPY
+
+- [Kelvin Gomes](https://github.com/kelving0mes) - RM 98126 - Turma  2TDSPN 
+
+- [Leonardo Seiti](https://github.com/LeonardoSeiti) - RM 550207 - Turma  2TDSPN
+
 ## Estrutura do Projeto
 
 - **index.py**: Contém o código principal da API.
